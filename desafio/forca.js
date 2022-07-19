@@ -1,4 +1,4 @@
-//implementação por Guilherme Kollet @guisklherme gui.s.kollet@gmail.com 19/07/2022 17:44
+//implementação por Guilherme Kollet @guisklherme sweatkollet@gmail.com 19/07/2022 17:44
 const chalk = require('chalk');
 
 class Forca {
